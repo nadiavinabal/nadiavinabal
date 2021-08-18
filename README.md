@@ -2,10 +2,6 @@
 <img src="https://ciberninjas.com/wp-content/uploads/2021/03/mejores-paginas-aprender-programacion.webp"/>
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
-
-
 ```js
 const nadiavinabal = {
    code: [Javascript, Typescript, HTML, CSS],

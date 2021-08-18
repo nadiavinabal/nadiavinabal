@@ -20,6 +20,15 @@ const nadiavinabal = {
 ```
 </br></br>
 <h2>💻 My Proyects 💻</h2>
+ Desarrollo de un SPA (Single Page Application) utilizando React para el Front End y
+  Redux como state management. Todos los componentes fueron desarrollados con CSS
+  sin uso de librerias expernas.
+  La SPA consume datos de una API ("https://spoonacular.com/food-api") a traves de un
+  Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades 
+  a la API original. 
+  Algunos feactures del proyecto: Cache de busqueda, ordenamiento y filtros,
+  formulario controlado para creacion de nuevas recetas.
+</br></br>
 <img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/1.png?raw=true"/>
 </br></br>
 <img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/2.png?raw=true"/>

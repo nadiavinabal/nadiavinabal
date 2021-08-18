@@ -46,3 +46,81 @@ Creación de una APP de viajeros que brinda la posibilidad de comprar viajes, pa
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
+## Tech Stack :computer:
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Redux</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/48/000000/redux.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MySQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/mysql-logo.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>PHP</center></b></span> 
+<img height=65px src="https://img.icons8.com/dusk/64/000000/php-logo.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Bootstrap</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/bootstrap.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Postgreesql</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/postgreesql.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/css3.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+

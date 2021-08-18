@@ -20,6 +20,7 @@ const nadiavinabal = {
 ```
 </br></br>
 <h2>💻 My Proyects 💻</h2>
+<h3> Recipe Food</h3>
  Desarrollo de un SPA (Single Page Application) utilizando React para el Front End y
   Redux como state management. Todos los componentes fueron desarrollados con CSS
   sin uso de librerias expernas.
@@ -34,6 +35,11 @@ const nadiavinabal = {
 <img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/2.png?raw=true"/>
 </br></br>
 <img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/3.png?raw=true"/>
+</br></br>
+<h3> Turismo</h3>
+Creación de una APP de viajeros que brinda la posibilidad de comprar viajes, paquetes de actividades, bitácora de viajes e información sobre COVID para los viajeros. Desarrollada con metodología ágil, con sprint de una semana y presentación a un Product Owner 
+</br></br>
+<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/4.png?raw=true"/>
 </br></br>
 <h2>💻 Some stats 💻</h2>
 

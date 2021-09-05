@@ -30,11 +30,11 @@ const nadiavinabal = {
   Algunos feactures del proyecto: Cache de busqueda, ordenamiento y filtros,
   formulario controlado para creacion de nuevas recetas.
 </br></br>
-<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/1.png?raw=true"/>
+<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/Recipe1.png?raw=true"/>
 </br></br>
-<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/2.png?raw=true"/>
+<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/Recipe2.png?raw=true"/>
 </br></br>
-<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/3.png?raw=true"/>
+<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/Recipe3.png?raw=true"/>
 </br></br>
 <h3> Turismo</h3>
 Creación de una APP de viajeros que brinda la posibilidad de comprar viajes, paquetes de actividades, bitácora de viajes e información sobre COVID para los viajeros. Desarrollada con metodología ágil, con sprint de una semana y presentación a un Product Owner 

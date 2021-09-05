@@ -39,7 +39,10 @@ const nadiavinabal = {
 <h3> Turismo</h3>
 Creación de una APP de viajeros que brinda la posibilidad de comprar viajes, paquetes de actividades, bitácora de viajes e información sobre COVID para los viajeros. Desarrollada con metodología ágil, con sprint de una semana y presentación a un Product Owner 
 </br></br>
-<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/4.png?raw=true"/>
+<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/turismo1.png?raw=true"/>
+<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/turismo2.png?raw=true"/>
+<img src="https://github.com/nadiavinabal/nadiavinabal/blob/main/turismo3.png?raw=true"/>
+
 </br></br>
 <h2>💻 Some stats 💻</h2>
 

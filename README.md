@@ -19,7 +19,7 @@ const nadiavinabal = {
 };
 ```
 </br></br>
-<h2>💻 My Proyects 💻</h2>
+<h2>💻 My Projects 💻</h2>
 <h3> Recipe Food</h3>
  Desarrollo de un SPA (Single Page Application) utilizando React para el Front End y
   Redux como state management. Todos los componentes fueron desarrollados con CSS
